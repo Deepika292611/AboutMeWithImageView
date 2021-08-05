@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMeWithImageView</string>
+    <string name="name">G P Deepika</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="mic">35dp</string>
+    <string name="img">16dp</string>
+    <string name="bio">I am Deepika.
+        I am from Kanya Kumari.
+
+        Currently I am  pursuing my BE in Karpagam College Of Engineering at Coimbatore.
+
+        I have completed my summer intern in ZOHO.
+
+        Now I have joined here as a project trainee.
+
+        My hobbies are drawing and singing.
+
+        During free hours I spend my time mostly in pencil arts.
+
+        My strengths are hardworking and selfmotivating.
+
+    I am happy.
+    </string>
+</resources>
